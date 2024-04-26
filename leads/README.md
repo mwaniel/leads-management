@@ -79,3 +79,6 @@ Sure, here's an updated guide incorporating the `.env` configuration for databas
 - Ensure your `.env` file is correctly configured with database and mail settings.
 - Make sure your database dump file (`tick.sql`) is compatible with your database type.
 - Update mail settings (`MAIL_*` variables) in `.env` to match your mail service provider or local mail server configuration.
+
+
+access the web routes folder to see all routes 
